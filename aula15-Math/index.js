@@ -11,6 +11,6 @@ let num1 = 9.54578;
 // console.log(aleatorio);
 
 // console.log(Math.pow(2, 10));   // Potencia
-console.log(Math.sqrt(9));  // Raiz quadrada
+// console.log(Math.sqrt(9));  // Raiz quadrada
 
 console.log(100/0); // Tipo de dado infinity

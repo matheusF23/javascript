@@ -1,6 +1,6 @@
 function esperaAi(msg, tempo) {
   return new Promise((resolve, reject) => {
-    if (typeof (msg) !== 'string') {
+    if (typeof msg !== 'string') {
       reject('BAD VALUE');
       return;
     }
